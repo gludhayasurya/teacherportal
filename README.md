@@ -34,7 +34,7 @@ Downloading LAMPP will be easy for the Application deploy, since it includes Php
 
 Installation
 
-Clone the repository - git clone https://github.com/gludhayasurya/FeedsApp.git
+Clone the repository - git clone [https://github.com/gludhayasurya/FeedsApp.git](https://github.com/gludhayasurya/teacherportal)
 
 Setup
 
